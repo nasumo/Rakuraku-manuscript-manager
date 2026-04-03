@@ -145,7 +145,12 @@ function mergeBthroughDFromRow9ToLast_(sheet) {
     r.breakApart();
   } catch (eM) { /* 未結合 */ }
   r.merge();
-  r.setBackground('#efefef').setVerticalAlignment('middle');
+  r.setBackground('#cccccc')
+   .setValue('ここにページの書き出し画像を配置')
+   .setFontColor('#ffffff')
+   .setFontWeight('bold')
+   .setHorizontalAlignment('center')
+   .setVerticalAlignment('middle');
 }
 
 /** 201行目〜シート末尾まで削除（1〜200行だけ残す） */
