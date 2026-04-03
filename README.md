@@ -55,7 +55,7 @@ Figma Community からインストール(現在申請中):
 
 ---
 
-## Privacy / プライバシー
+## プライバシー
 
 Privacy Policy: https://www.notion.so/Privacy-Policy-3378e13407d08023ac3adb9bd8a6e1bb
 
@@ -65,6 +65,6 @@ nasu@dono.co.jp
 
 ---
 
-## License
+## ライセンス
 
-The GAS script in this repository is provided for use with the Rakuraku Manuscript Manager Figma plugin. Redistribution or resale of this script as a standalone product is not permitted.
+このリポジトリのGASスクリプトは、Figmaプラグインである「らくらく原稿管理」を使用するために提供されています。このスクリプトを単体製品として再配布または再販することは許可されていません。
